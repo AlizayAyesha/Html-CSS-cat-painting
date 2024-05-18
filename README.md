@@ -1,11 +1,11 @@
 # Html-CSS-cat-painting
 
 # Cat Painting Project
-Mastering CSS positioning is essential for creating visually appealing and responsive web layouts. In this project, you will create a cat painting using CSS techniques such as absolute positioning, the z-index property, and the transform property.
+Mastering CSS positioning is essential for creating visually appealing and responsive web layouts. In this project, have create a cat painting using CSS techniques such as absolute positioning, the z-index property, and the transform property.
 
 ## Overview
 
-This project focuses on honing your CSS skills by building a visually engaging cat painting. By understanding and implementing advanced CSS positioning techniques, you'll be able to create intricate designs and responsive layouts.
+This project focuses on honing CSS skills by building a visually engaging cat painting. By understanding and implementing advanced CSS positioning techniques, you'll be able to create intricate designs and responsive layouts.
 
 ## Key Concepts Covered
 
@@ -15,7 +15,7 @@ This project focuses on honing your CSS skills by building a visually engaging c
 
 ## Contributing
 
-We welcome contributions from everyone! Here's how you can get involved:
+I welcome contributions from everyone! Here's how you can get involved:
 
 ### Issues
 
